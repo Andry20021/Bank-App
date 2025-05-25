@@ -117,82 +117,76 @@ export default function Home() {
 
 
         <div style={{ backgroundColor: "#becfbc" }} className="flex flex-col w-100 h-110 shadow border-gray-700 border-1">
-          <div className="flex w-100 h-30 bg-amber-300">
-            <div className="w-50 h-30 bg-blue-400 pt-2 text-left">
-              <p className="text-2xl pl-5 ">Secret</p>
+          <div className="flex w-100 h-30 bg-emerald-900">
+            <div className="w-50 h-30 pt-2 text-left">
+              <p className="text-2xl pl-5 pt-1 ">Secret</p>
               <p className="text-2xl pl-5">Bank</p>
               <p className="text-2xl pl-5">Unlimited</p>
             </div>
-            <div className="w-50 h-30 bg-blue-700">
+            <div className="w-50 h-30">
               <FaCreditCard className="text-7xl ml-16.5 mt-6" />
             </div>
           </div>
-          <div className="flex flex-col w-100 h-50 bg-green-700">
-            <div className="w-100 h-20 bg-amber-700">
-              <h3 className="text-2xl text-bold text-left pl-10 pt-8">Earn a $300 bonus</h3>
+          <div className="flex flex-col w-100 h-50">
+            <div className="w-100 h-20">
+              <h3 className="text-2xl text-bold text-left pl-10 pt-8 text-gray-700">Earn a $300 bonus</h3>
             </div>
-            <div className="w-100 h-30 bg-red-700 pb-5">
-              <h3 className="text-lg text-bold text-left pl-10">Plus, earn unlimited 2% cash back or more on all purchases
+            <div className="w-100 h-30 pb-5">
+              <h3 className="text-lg text-bold text-left pl-10 text-gray-700">Plus, earn unlimited 2% cash back or more on all purchases
                 , including 4% on dining and drugstores - all with no annual fee.
               </h3>
             </div>
           </div>
-          <div className="w-100 h-20 bg-green-950 flex items-center justify-start pl-10">
-            <button className="text-2xl bg-blue-300 px-2 py-2 rounded-2xl">Learn more
+          <div className="w-100 h-20 flex items-center justify-start pl-10">
+            <button className="text-2xl bg-emerald-900 px-2 py-2 rounded-2xl">Learn more
             </button>
           </div>
         </div>
 
         <div style={{ backgroundColor: "#becfbc" }} className="flex flex-col w-100 h-110 shadow border-gray-700 border-1">
-          <div className="flex w-100 h-30 bg-amber-300">
-            <div className="w-50 h-30 bg-blue-400 pt-2 text-left">
-              <p className="text-2xl pl-5 ">Secret</p>
-              <p className="text-2xl pl-5">Bank</p>
-              <p className="text-2xl pl-5">Unlimited</p>
+          <div className="flex w-100 h-30 bg-emerald-900">
+            <div className="w-50 h-30 pt-2 text-left">
+              <p className="text-2xl pl-5 pt-5">Secret Bank Secure Banking</p>
             </div>
-            <div className="w-50 h-30 bg-blue-700">
-              <FaCreditCard className="text-7xl ml-16.5 mt-6" />
+            <div className="w-50 h-30">
+              <FaMoneyCheck className="text-7xl ml-16.5 mt-6" />
             </div>
           </div>
-          <div className="flex flex-col w-100 h-50 bg-green-700">
-            <div className="w-100 h-20 bg-amber-700">
-              <h3 className="text-2xl text-bold text-left pl-10 pt-8">Earn a $300 bonus</h3>
+          <div className="flex flex-col w-100 h-50">
+            <div className="w-100 h-20">
+              <h3 className="text-2xl text-bold text-left pl-10 pt-8 text-gray-700">Enjoy $200 on us</h3>
             </div>
-            <div className="w-100 h-30 bg-red-700 pb-5">
-              <h3 className="text-lg text-bold text-left pl-10">Plus, earn unlimited 2% cash back or more on all purchases
-                , including 4% on dining and drugstores - all with no annual fee.
+            <div className="w-100 h-30 pb-5">
+              <h3 className="text-lg text-bold text-left pl-10 text-gray-700">For new Secret Bank checking customers when you open a Secret Banking acccount with qualifiying transactions.
               </h3>
             </div>
           </div>
-          <div className="w-100 h-20 bg-green-950 flex items-center justify-start pl-10">
-            <button className="text-2xl bg-blue-300 px-2 py-2 rounded-2xl">Learn more
+          <div className="w-100 h-20 flex items-center justify-start pl-10">
+            <button className="text-2xl bg-emerald-900 px-2 py-2 rounded-2xl">Learn more
             </button>
           </div>
         </div>
 
         <div style={{ backgroundColor: "#becfbc" }} className="flex flex-col w-100 h-110 shadow border-gray-700 border-1">
-          <div className="flex w-100 h-30 bg-amber-300">
-            <div className="w-50 h-30 bg-blue-400 pt-2 text-left">
-              <p className="text-2xl pl-5 ">Secret</p>
-              <p className="text-2xl pl-5">Bank</p>
-              <p className="text-2xl pl-5">Unlimited</p>
+          <div className="flex w-100 h-30 bg-emerald-900">
+            <div className="w-50 h-30 pt-2 text-left">
+              <p className="text-2xl pl-5 pt-8">J.P. Morgan</p>
             </div>
-            <div className="w-50 h-30 bg-blue-700">
+            <div className="w-50 h-30">
               <FaCreditCard className="text-7xl ml-16.5 mt-6" />
             </div>
           </div>
-          <div className="flex flex-col w-100 h-50 bg-green-700">
-            <div className="w-100 h-20 bg-amber-700">
-              <h3 className="text-2xl text-bold text-left pl-10 pt-8">Earn a $300 bonus</h3>
+          <div className="flex flex-col w-100 h-50">
+            <div className="w-100 h-20">
+              <h3 className="text-2xl text-bold text-left pl-10 pt-8 text-gray-700">Earn a $300 bonus</h3>
             </div>
-            <div className="w-100 h-30 bg-red-700 pb-5">
-              <h3 className="text-lg text-bold text-left pl-10">Plus, earn unlimited 2% cash back or more on all purchases
-                , including 4% on dining and drugstores - all with no annual fee.
+            <div className="w-100 h-30 pb-5">
+              <h3 className="text-lg text-bold text-left pl-10 text-gray-700">Plus, earn unlimited 2% cash back or more on all purchases, including 4% on dining and drugstores - all with no annual fee.
               </h3>
             </div>
           </div>
-          <div className="w-100 h-20 bg-green-950 flex items-center justify-start pl-10">
-            <button className="text-2xl bg-blue-300 px-2 py-2 rounded-2xl">Learn more
+          <div className="w-100 h-20 flex items-center justify-start pl-10">
+            <button className="text-2xl bg-emerald-900 px-2 py-2 rounded-2xl">Learn more
             </button>
           </div>
         </div>
